@@ -110,5 +110,6 @@ paddlefsl
 jedi
 filterpy
 numba
+tornado>=6.3.3
 werkzeug>=3.0.1
 validators>=0.21.0
