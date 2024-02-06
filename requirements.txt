@@ -113,3 +113,4 @@ numba
 tornado>=6.3.3
 werkzeug>=3.0.1
 validators>=0.21.0
+fastapi>=0.109.1 # not directly required, pinned by Snyk to avoid a vulnerability
